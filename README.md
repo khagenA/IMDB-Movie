@@ -1,4 +1,4 @@
-# IMDB Dataset of 50K Movie Reviews to perform Sentiment analysis
+# IMDb Dataset of 50K Movie Reviews to perform Sentiment analysis
 The IMDB Dataset of 50K Movie Reviews is a popular dataset available on Kaggle that consists of a collection of 50,000 movie reviews sourced from the Internet Movie Database (IMDB).
 The dataset contains 50,000 reviews, evenly split into 25,000 positive and 25,00 negative reviews.
 The dataset is structured as a CSV file (comma-separated values) and includes two main columns:
